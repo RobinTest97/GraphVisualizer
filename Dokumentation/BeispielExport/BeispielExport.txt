@@ -1,0 +1,55 @@
+Zusaetzliche Node Informationen: 
+
+-------------------------------------------------------------
+Knotenname: England
+KnotenID: 1
+Koordinate X: 375.0
+Koordinate Y: 154.0
+Nachfolger Knoten: 
+	Knotenname: Wien | Id: 2
+	Knotenname: Thun | Id: 3
+
+
+Vorgaenger Knoten:
+	Keine Vorgaenger gefunden!
+
+Ausgehende Verbindungen: 
+ bound Verbindung: startKnotenId: 1 | endKnotenId: 2 | Kosten: 10
+ bound Verbindung: startKnotenId: 1 | endKnotenId: 3 | Kosten: 8
+-------------------------------------------------------------
+
+-------------------------------------------------------------
+Knotenname: Wien
+KnotenID: 2
+Koordinate X: 700.0
+Koordinate Y: 340.0
+Nachfolger Knoten: 
+	Keine Nachfolger gefunden!
+
+Vorgaenger Knoten:
+	Nachfolgende Knotenname: England | Id: 1
+
+Ausgehende Verbindungen: 
+	Keine ausgehenden Verbindungen gefunden!
+-------------------------------------------------------------
+
+-------------------------------------------------------------
+Knotenname: Thun
+KnotenID: 3
+Koordinate X: 408.0
+Koordinate Y: 371.0
+Nachfolger Knoten: 
+	Keine Nachfolger gefunden!
+
+Vorgaenger Knoten:
+	Nachfolgende Knotenname: England | Id: 1
+
+Ausgehende Verbindungen: 
+	Keine ausgehenden Verbindungen gefunden!
+-------------------------------------------------------------
+
+Adjazenz Matrix: 
+
+0 1 1 
+0 0 0 
+0 0 0 
