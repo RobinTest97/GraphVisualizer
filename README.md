@@ -1,10 +1,10 @@
 # GraphVisualizer
 
-Der GraphVisualizer ist im Zuge eines Abschlussprojektes in einem Hochschulmodul entstanden. Die Arbeit inklusive Dokumentation stammt vom 28.02.2020
+Der GraphVisualizer ist im Zuge eines Hochschulprojektes entstanden. Die Arbeit inklusive Dokumentation stammt vom 28.02.2020
 und ist verbesserungsfähig. 
 
 Die Grundidee der Applikation war die visuelle Umsetzung von Graphen und deren Speicherung in einem passendem Datenformat. Über das Format sollte ermöglicht
-werden verschiedene Algorithmen anzuwenden, leider war das Projekt zeitlich zu kurz, sodass Algorithmen aus der Graphentheorie nicht mehr einfgührt werden konnten. Dennoch bietet das Projekt einen guten Grundsatz der vielleicht dem ein oder anderen einen Ansatz für ein ähnliches Projekt bietet. 
+werden verschiedene Algorithmen anzuwenden, leider war das Projekt zeitlich zu kurz, sodass Algorithmen aus der Graphentheorie nicht mehr eingeführt werden konnten. Dennoch bietet das Projekt einen guten Grundsatz der vielleicht dem ein oder anderen einen Ansatz für ein ähnliches Projekt bietet. 
 
 Die Dokumentation der Applikation ist hier zu finden: [GraphVisualizer Dokumentation](https://github.com/RobinTest97/GraphVisualizer/blob/c379e817641cb16dcf477f28e628337ba9dfafed/Dokumentation/Programmbericht%20Graph%20Visualizer.pdf).
 
